@@ -10,8 +10,7 @@ The E-PACERR Statistical Analysis App is a Python application built using Tkinte
 5. [Qualtrics](#qualtrics)
 6. [Example](#example)
 7. [License](#license)
-8. [Contributing](#contributing)
-9. [Contact Information](#contact-information)
+8. [Contact Information](#contact-information)
 
 ## Key Features
 
@@ -49,6 +48,7 @@ To run the app, follow these steps:
    ```bash
    ./main.py
    ```
+6. Once the program is running, just select the module(or don't select any module for analysis of all modules), and select the Qualtrics CSV file.
 ## Usage
 
 1. Launch the app by running `main.py`.
@@ -66,10 +66,6 @@ Link to Survey: https://unomaha.az1.qualtrics.com/jfe/form/SV_0B9VoRnswJX8qxg
 ## License
 
 [Choose an appropriate license for your project. You can find licenses on [ChooseALicense.com](https://choosealicense.com/)]
-
-## Contributing
-
-PLACEHOLDER: Contributions are welcome. Please follow the guidelines in [CONTRIBUTING.md](CONTRIBUTING.md). 
 
 ## Contact Information
 
