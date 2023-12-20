@@ -39,25 +39,52 @@ To run the app, follow these steps:
    cd epacerr-statistics-app
 
 2. **Ensure you have Python installed.**
-3. **Install the required dependencies using pip:**
+3. **If the dependencies haven't been installed yet, install them. The following example uses pip, but you can use any prefered package manager:**
    ```bash
    pip install tk pandas matplotlib
-   
-4. Ensure that you have a correctly formatted [Qualtrics Survey.](#Qualtrics)
-5. **Run the program:**
-   ```bash
-   ./main.py
-   ```
-6. Once the program is running, just select the module(or don't select any module for analysis of all modules), and select the Qualtrics CSV file.
+
 ## Usage
 
 1. Launch the app by running `main.py`.
-2. Select the module for analysis (or skip to analyze all modules).
-3. Choose the Qualtrics survey file matching the required format.
+2. Ensure that you have a correctly formatted [Qualtrics Survey.](#Qualtrics)
+3. Select the module for analysis (or skip to analyze all modules).
+4. Choose the Qualtrics survey file matching the required format.
 
 ## Qualtrics
 Link to Survey: https://unomaha.az1.qualtrics.com/jfe/form/SV_0B9VoRnswJX8qxg
 
+### Introductory Questions
+- Question 1 (type-field): Please enter your first and last name.
+- Question 2 (type-field): Please enter your email address.
+  
+### Module Selection
+- Question 1 (multiple choice): Please select the module that this feedback is for.
+
+### User Satisfaction
+The following questions refer to the user satisfaction with the content.
+- Question 1 (matrix-table): Overall, I am satisfied with the ease of completing tasks in this module.
+- Question 2 (matrix-table): Overall, I am satisfied with the amount of time it took to complete the tasks in this module.
+- Question 3 (matrix-table): Overall, I am satisfied with the support information (online help, messages, documentation) when completing this task.
+
+### System Usability Questions
+- Question 1 (matrix-table): I think that I would like to use this module frequently.
+- Question 2 (matrix-table): I found the module unnecessarily complex.
+- Question 3 (matrix-table): I thought the module layout was easy to use.
+- Question 4 (matrix-table): I think that I would need the support of a technical person to be able to use the module layout.
+- Question 5 (matrix-table): I found the various lessons in the module were well integrated.
+- Question 6 (matrix-table): I thought there was too much inconsistency in the module layout.
+- Question 7 (matrix-table): I would imagine that most people would learn to traverse the module independently very quickly.
+- Question 8 (matrix-table): I found the module layout very cumbersome to use.
+- Question 9 (matrix-table): I felt very confident using the module layout.
+- Question 10 (matrix-table): I needed to learn a lot of things before I could get going with the module.
+
+### Saving the Results
+To properly export the data from Qualtrics, perform the following steps from the `Survey` page:
+1. Navigate to the `Data & Analysis` Tab
+2. Click on `Export & Import`
+3. Click `Export...`
+4. Select the `Use numeric values` radio button
+5. Click `Download`
 
 ## Example
 
