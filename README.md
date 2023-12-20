@@ -91,8 +91,7 @@ To properly export the data from Qualtrics, perform the following steps from the
 ![Include screenshots or code snippets demonstrating app usage]
 
 ## License
-
-[Choose an appropriate license for your project. You can find licenses on [ChooseALicense.com](https://choosealicense.com/)]
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact Information
 
