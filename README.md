@@ -54,29 +54,29 @@ To run the app, follow these steps:
 Link to Survey: https://unomaha.az1.qualtrics.com/jfe/form/SV_0B9VoRnswJX8qxg
 
 ### Introductory Questions
-- Question 1 (type-field): Please enter your first and last name.
-- Question 2 (type-field): Please enter your email address.
+- Question 1 (type-field) : Please enter your first and last name.
+- Question 2 (type-field) : Please enter your email address.
   
 ### Module Selection
-- Question 1 (multiple choice): Please select the module that this feedback is for.
+- Question 1 (multiple choice) : Please select the module that this feedback is for.
 
 ### User Satisfaction
 The following questions refer to the user satisfaction with the content.
-- Question 1 (matrix-table): Overall, I am satisfied with the ease of completing tasks in this module.
-- Question 2 (matrix-table): Overall, I am satisfied with the amount of time it took to complete the tasks in this module.
-- Question 3 (matrix-table): Overall, I am satisfied with the support information (online help, messages, documentation) when completing this task.
+- Question 1 (matrix-table) : Overall, I am satisfied with the ease of completing tasks in this module.
+- Question 2 (matrix-table) : Overall, I am satisfied with the amount of time it took to complete the tasks in this module.
+- Question 3 (matrix-table) : Overall, I am satisfied with the support information (online help, messages, documentation) when completing this task.
 
 ### System Usability Questions
-- Question 1 (matrix-table): I think that I would like to use this module frequently.
-- Question 2 (matrix-table): I found the module unnecessarily complex.
-- Question 3 (matrix-table): I thought the module layout was easy to use.
-- Question 4 (matrix-table): I think that I would need the support of a technical person to be able to use the module layout.
-- Question 5 (matrix-table): I found the various lessons in the module were well integrated.
-- Question 6 (matrix-table): I thought there was too much inconsistency in the module layout.
-- Question 7 (matrix-table): I would imagine that most people would learn to traverse the module independently very quickly.
-- Question 8 (matrix-table): I found the module layout very cumbersome to use.
-- Question 9 (matrix-table): I felt very confident using the module layout.
-- Question 10 (matrix-table): I needed to learn a lot of things before I could get going with the module.
+- Question 1 (matrix-table) : I think that I would like to use this module frequently.
+- Question 2 (matrix-table) : I found the module unnecessarily complex.
+- Question 3 (matrix-table) : I thought the module layout was easy to use.
+- Question 4 (matrix-table) : I think that I would need the support of a technical person to be able to use the module layout.
+- Question 5 (matrix-table) : I found the various lessons in the module were well integrated.
+- Question 6 (matrix-table) : I thought there was too much inconsistency in the module layout.
+- Question 7 (matrix-table) : I would imagine that most people would learn to traverse the module independently very quickly.
+- Question 8 (matrix-table) : I found the module layout very cumbersome to use.
+- Question 9 (matrix-table) : I felt very confident using the module layout.
+- Question 10 (matrix-table) : I needed to learn a lot of things before I could get going with the module.
 
 ### Saving the Results
 To properly export the data from Qualtrics, perform the following steps from the `Survey` page:
