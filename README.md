@@ -87,8 +87,22 @@ To properly export the data from Qualtrics, perform the following steps from the
 5. Click `Download`
 
 ## Example
+Both of these examples were done with the included [e-pacerr sample results](e-pacerr_test_data) file.
+### Analysis for all modules:
+Running `./main.py`
 
-![Include screenshots or code snippets demonstrating app usage]
+![Screenshot 2023-12-21 at 10 37 05 AM](https://github.com/lukeirwin03/epacerr-statistics-app/assets/89871736/ac9cfffe-6e99-4d28-af2d-9fef701b653d)
+
+After the file has been selected.
+![Screenshot 2023-12-21 at 10 51 27 AM](https://github.com/lukeirwin03/epacerr-statistics-app/assets/89871736/4d1deccf-ae69-4d6f-973c-8cea0abb9b54)
+### Analysis for module 1:
+Running `./main.py`
+
+![Screenshot 2023-12-21 at 10 38 08 AM](https://github.com/lukeirwin03/epacerr-statistics-app/assets/89871736/d5990adb-0a5c-439d-8afe-6ffeec98fe09)
+
+After the file has been selected.
+![Screenshot 2023-12-21 at 10 52 19 AM](https://github.com/lukeirwin03/epacerr-statistics-app/assets/89871736/5fc271d5-04f5-45e0-95f5-5f257254a700)
+
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
